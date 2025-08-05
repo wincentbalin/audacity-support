@@ -17,7 +17,11 @@ This is a patch release. It contains the following changes:
 {% hint style="warning" %}
 ## A note on Windows on ARM support
 
+Windows on ARM (WoA) Audacity only works in Windows 11.
+
 The normal "FFmpeg for Audacity" installer does not work for WoA Audacity. You need to find an WoA FFmpeg version and manually link it.&#x20;
 
-Due to a lack of devices, the Audacity team has not tested the WoA version extensively. We did however check that basic things work while using a Windows VM in Parallels (on an ARM Mac).
+Other plugins (VST, OpenVINO, ...) won't work at all at this time.
+
+Due to a lack of devices, the Audacity team has not tested the WoA version extensively. We did however check that basic things work while using a Windows VM in Parallels (on an ARM Mac). Please let us know if you encounter any strangeness.
 {% endhint %}
