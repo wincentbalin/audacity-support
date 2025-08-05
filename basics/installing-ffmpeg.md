@@ -21,7 +21,7 @@ You can download and install FFmpeg as follows:
 ### Recommended installer
 
 1. Download the FFmpeg installer from [https://lame.buanzo.org/ffmpeg.php](https://lame.buanzo.org/ffmpeg.php)\
-   For most computers, the 64-bit Windows version is correct.
+   For most computers, the 64-bit Windows version is correct. For native Windows ARM build go to [https://github.com/tordona/ffmpeg-win-arm64](https://github.com/tordona/ffmpeg-win-arm64).
 2. Run the installer. You can ignore the "unknown publisher" warning.
 3. Read and accept the license
 4. Select the location to install FFmpeg. By default FFmpeg will be installed into **C:\Program Files\FFmpeg for Audacity**
@@ -44,6 +44,7 @@ If you prefer a manual installation of FFmpeg you can download a ZIP file from a
 
 * [https://github.com/BtbN/FFmpeg-Builds/releases](https://github.com/BtbN/FFmpeg-Builds/releases)&#x20;
 * [https://www.gyan.dev/ffmpeg/builds/#release-builds](https://www.gyan.dev/ffmpeg/builds/#release-builds)
+* Windows ARM64: [https://github.com/tordona/ffmpeg-win-arm64](https://github.com/tordona/ffmpeg-win-arm64)
 * Or by compiling it from source as described here: [https://trac.ffmpeg.org/wiki/CompilationGuide](https://trac.ffmpeg.org/wiki/CompilationGuide)&#x20;
 
 {% hint style="info" %}
