@@ -10,7 +10,7 @@ The default project sample rate in Audacity (and, indeed, most other devices) is
 
 ## Fixes
 
-In order for Audacity to record audio from a Bluetooth headset, the sample rate must be set to a value supported by your bluetooth device. To do that, go to **Audio Setup -> Audio Settings** and then set **Project Sample Rate** to a setting supported by your headset. Typically, this will be 16000 Hz.&#x20;
+In order for Audacity to record audio from a Bluetooth headset, the sample rate must be set to a value supported by your Bluetooth device. To do that, go to **Audio Setup -> Audio Settings** and then set **Project Sample Rate** to a setting supported by your headset. Typically, this will be 16000 Hz. Make sure you record on a new track.
 
 {% hint style="success" %}
 If the troubleshooting steps aren't working for you, feel free to ask in our communities:&#x20;

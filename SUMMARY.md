@@ -74,6 +74,7 @@
 * [Common troubleshooting steps](troubleshooting/common-troubleshooting-steps.md)
 * [Solving recording problems](troubleshooting/solving-recording-problems/README.md)
   * [Audacity is not detecting the audio device I just connected](troubleshooting/solving-recording-problems/audacity-is-not-detecting-the-audio-device-i-just-connected.md)
+  * [Audacity is only recording silence](troubleshooting/solving-recording-problems/audacity-is-only-recording-silence.md)
   * [Audacity is not playing back what is being recorded](troubleshooting/solving-recording-problems/audacity-is-not-playing-back-what-is-being-recorded.md)
   * [Delay and echoes when recording](troubleshooting/solving-recording-problems/delay-and-echoes-when-recording.md)
   * [Crackles, pops and distortion in the recording](troubleshooting/solving-recording-problems/crackles-pops-and-distortion-in-the-recording.md)
@@ -90,6 +91,7 @@
 
 ## Special uses
 
+* [Expected uses](special-uses/expected-uses.md)
 * [Info for Visually Impaired Users](https://vip.chowo.co.uk/wp-content/uploads/jaws/Audacity-3.7.3-Guide.html)
 * [Info for System Administrators](special-uses/info-for-system-administrators.md)
 
